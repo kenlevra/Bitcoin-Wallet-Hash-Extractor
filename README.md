@@ -19,6 +19,7 @@ encrypted master key (mkey) hashes from Bitcoin `wallet.dat` files, ready for us
 
 🚀 Usage
 
+- Download, add to path and install python 2.7.15 (essential)
 - Clone or download the repository
 - Copy all your wallet.dat files to the same folder as your scripts
 - Run the Extract_hash.bat file
