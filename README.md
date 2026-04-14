@@ -26,6 +26,8 @@ encrypted master key (mkey) hashes from Bitcoin `wallet.dat` files, ready for us
 
 Once complete, you'll find:
 
-all_hashes.txt → Contains all the extracted hashes (John-ready format)
+all_hashes.txt → Contains all the extracted hashes
+
 errors.txt → List of wallets that generated errors
+
 processed_files.txt → Complete list of processed files
