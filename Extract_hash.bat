@@ -30,7 +30,7 @@ for %%f in (*.dat) do (
 
 echo.
 echo ========================================
-echo  FINITO!
+echo  FINISHED!
 echo  Hash extracted: all_hashes.txt
 echo  File error: errors.txt   (%errorcount% error founded)
 echo  All file processed: processed_files.txt
